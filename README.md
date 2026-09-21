@@ -8,11 +8,13 @@ veil added this feature
 
 =============================================
 
+**ScrumMaster** - DE LEON, Sean Arrul
+
 **DB Admin**- DELA CRUZ, Veil
 
 **Tester**- ECHAGUE, Arielle
 
-**ScrubMaster** - DE LEON, Sean Arrul
+
 
 **UI Designer** CASING, Christian
 
