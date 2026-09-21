@@ -1,17 +1,27 @@
 # electroDB
+Repository made by Sean De Leon
 
 Repository made by Sean De Leon
 
 Sean De Leon updated this feature
 
-Members: Scrum Master: DE LEON, Sean Arrul UI Designer: CASING, Christian Jay Dev - IDELFONSO, Jeptah Ashley Tester - ECHAGUE, Arielle veil added this feature
+Members:
+Scrum Master: DE LEON, Sean Arrul
+UI Designer: CASING, Christian Jay
+Dev - IDELFONSO, Jeptah Ashley
+Tester - ECHAGUE, Arielle
+veil added this feature
 
-ScrumMaster - DE LEON, Sean Arrul
 
-DB Admin- DELA CRUZ, Veil
+**ScrumMaster** - DE LEON, Sean Arrul
 
-Tester- ECHAGUE, Arielle
+**DB Admin**- DELA CRUZ, Veil
 
-UI Designer CASING, Christian
+**Tester**- ECHAGUE, Arielle
 
-Dev- Ildefonso, Jeptah Ashley
+
+
+**UI Designer** CASING, Christian
+
+**Dev**- Ildefonso, Jeptah Ashley
+
