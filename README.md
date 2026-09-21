@@ -1,4 +1,4 @@
-# scrum_masters
+# electroDB
 Repository made by Sean De Leon
 
 
